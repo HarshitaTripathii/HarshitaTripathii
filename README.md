@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshitaTripathii
-- 👀 I’m interested in coding @C,@python,@javascript,@react and many more 
+- 👀 I’m interested in coding @C , @C++ , @Java , @python , @javascript , @react and many more 
 - 🌱 I’m currently learning @c
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ...
