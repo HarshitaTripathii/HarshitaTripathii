@@ -47,7 +47,7 @@ A growing collection of dynamic-programming and graph problems demonstrating alg
 ## What I'm Working Toward
 
 - Writing maintainable Express.js backends
-- Working on Automations - n8n
+- Building reliable workflow automations with n8n
 - Designing clean PostgreSQL schemas with Prisma
 - Building polished React.js interfaces
 - Improving DSA foundations through C and C++
