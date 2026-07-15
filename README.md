@@ -26,23 +26,23 @@ I enjoy building practical web applications, designing reliable REST APIs, and s
 
 ## Featured Work
 
-### Learn Backend Series
-Hands-on backend development with Express.js, Prisma, PostgreSQL, API design, middleware, authentication, and database integration.
+### [RAG Chatbot](https://github.com/HarshitaTripathii/rag_chatbot)
+An AI-focused chatbot project exploring retrieval-augmented generation, relevant-context retrieval, and grounded conversational responses.
 
-### Learn Frontend Series
-React.js projects focused on reusable components, state management, responsive interfaces, and frontend fundamentals.
+### [Marketplace Backend](https://github.com/HarshitaTripathii/Marketplace-backend)
+A scalable marketplace backend demonstrating API design, authentication, role-based access control, product workflows, and database-driven architecture.
 
-### C Data Structures
+### [Minimal Social Media](https://github.com/HarshitaTripathii/minimal-social--media)
+A backend-focused social platform using PostgreSQL and Prisma, with feeds, likes, follows, notifications, and consistent API behavior.
+
+### [C Data Structures](https://github.com/HarshitaTripathii/c-codes)
 Implementations of linked lists, stacks, queues, and other foundational data structures written in C.
 
+### [JavaScript Projects](https://github.com/HarshitaTripathii/JavascriptProject)
+A collection of JavaScript work demonstrating core language concepts, DOM interaction, and practical frontend problem-solving.
+
 ### [Dynamic Programming & Graph Algorithms](https://github.com/HarshitaTripathii/dp-graph)
-A growing collection of dynamic-programming and graph problems that demonstrates algorithmic thinking and structured C/C++ implementations.
-
-### Scalable Multi-Vendor Marketplace
-A backend-focused marketplace project featuring authentication, role-based access control, product management, and database-driven workflows.
-
-### Minimal Social Media
-Backend development involving PostgreSQL, Prisma, feeds, likes, follows, notifications, and consistent API behavior.
+A growing collection of dynamic-programming and graph problems demonstrating algorithmic thinking and structured C/C++ implementations.
 
 ## What I'm Working Toward
 
@@ -50,7 +50,8 @@ Backend development involving PostgreSQL, Prisma, feeds, likes, follows, notific
 - Designing clean PostgreSQL schemas with Prisma
 - Building polished React.js interfaces
 - Improving DSA foundations through C and C++
-- Contributing to practical, collaborative software projects
+- Developing practical AI-powered applications
+- Contributing to collaborative software projects
 
 ## Connect
 
